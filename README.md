@@ -41,7 +41,7 @@
 
 
 ### Useful materials
-
+[Scaling and renormalization in high-dimensional regression](https://arxiv.org/abs/2405.00592)
 
 ### Tutorial
 (Author: Alex Atanasov)
